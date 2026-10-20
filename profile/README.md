@@ -8,7 +8,7 @@
 
 With AI, every developer is THE GOAT!
 
-[Website](https://heidrun-org.github.io/heidrun/) · [Documentation](https://heidrun-org.github.io/heidrun/documentation/) · [Download](https://github.com/heidrun-org/heidrun/releases/latest)
+[Website](https://heidrun-org.github.io/) · [Documentation](https://heidrun-org.github.io/heidrun/documentation/) · [Download](https://github.com/heidrun-org/heidrun/releases/latest)
 
 </div>
 
